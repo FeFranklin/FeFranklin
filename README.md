@@ -17,7 +17,7 @@ Desenvolvedor front-end com experiência em React! Buscando novas oportunidades 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-l-franklin/)
 
-## Tech Stack
+## 🕹️ Tech Stack
 
 <div>
   <img align="center" alt="FeFranklin-react" height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
