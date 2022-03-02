@@ -7,8 +7,8 @@ Sou Desenvolvedor de Software e bastante curioso 🤓
 Formado em engenharia elétrica na Universidade de Economia e Tecnologia de Budapeste 🇭🇺
 
 <div> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fefranklin&show_icons=true&theme=github_dark&hide=stars"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefranklin&layout=compact&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fefranklin&show_icons=true&theme=github_dark&hide=stars"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefranklin&layout=compact&theme=github_dark"/>
 </div>
 
 Desenvolvedor front-end com experiência em React! Buscando novas oportunidades para continuar crescendo.
