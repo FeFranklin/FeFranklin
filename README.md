@@ -8,8 +8,7 @@ Formado em engenharia elétrica na Universidade de Economia e Tecnologia de Buda
 
 Buscando produzir códigos eficientes que ajudem na acessibilidade e experiência do usuário! 👨‍🎨
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefranklin&layout=compact&theme=github_dark"/>
-
+[![fefranklin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fefranklin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Desenvolvedor front-end com experiência em React! Buscando novas oportunidades para continuar crescendo.
 
